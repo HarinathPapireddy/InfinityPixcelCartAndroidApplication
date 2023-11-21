@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@android:id/background">
+            <shape android:shape="rectangle">
+                <solid android:color="#FFFFFF" /> <!-- Background color of CardView -->
+                <corners android:radius="16dp" /> <!-- Adjust as needed for rounded corners -->
+            </shape>
+        </item>
+        <item android:id="@android:id/content">
+            <shape android:shape="rectangle">
+                <solid android:color="#00FFFFFF" /> <!-- Transparent color for the cutout -->
+                <corners android:radius="16dp" /> <!-- Adjust as needed for rounded corners -->
+            </shape>
+        </item>
+    </layer-list>
+</selector>

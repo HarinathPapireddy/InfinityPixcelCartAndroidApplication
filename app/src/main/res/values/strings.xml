@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InfinityPixelCart</string>
+    <string name="productImage" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Logout">Logout</string>
+    <string name="AccountDetails">Account Details</string>
+    <string name="Addresses">Your Addresses</string>
+    <string name="YourOrders">Your Orders</string>
+    <string name="TransactionDetails">Transaction Details</string>
+    <string name="Wishlist">Wish List</string>
+    <string name="UserDetails">User Details</string>
+</resources>
